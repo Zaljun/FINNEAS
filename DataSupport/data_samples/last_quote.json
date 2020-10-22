@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "symbol": "AAPL",
+    "last": {
+        "askprice": 127.39,
+        "asksize": 1,
+        "askexchange": 3,
+        "bidprice": 118,
+        "bidsize": 1,
+        "bidexchange": 17,
+        "timestamp": 1602882000038000000
+    }
+}
